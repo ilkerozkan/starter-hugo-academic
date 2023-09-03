@@ -1,0 +1,49 @@
+---
+title: Diagnosis of urinary tract infection based on artificial intelligence methods
+date: 2018-01-01
+publishDate: 2020-03-08T17:54:47.747+00:00
+authors:
+- Ilker Ali Ozkan
+- Murat Koklu
+- Ibrahim Unal Sert
+publication_types:
+- '2'
+abstract: Background and Objective Urinary tract infection (UTI) is a common disease
+  affecting the vast majority of people. UTI involves a simple infection caused by
+  urinary tract inflammation as well as a complicated infection that may be caused
+  by an inflammation of other urinary tract organs. Since all of these infections
+  have similar symptoms, it is difficult to identify the cause of primary infection.
+  Therefore, it is not easy to diagnose a UTI with routine examination procedures.
+  Invasive methods that require surgery could be necessary. This study aims to develop
+  an artificial intelligence model to support the diagnosis of UTI with complex symptoms.
+  Methods Firstly, routine examination data and definitive diagnosis results for 59
+  UTI patients gathered and composed as a UTI dataset. Three classification models
+  namely; decision tree (DT), support vector machine (SVM), random forest (RF) and
+  artificial neural network (ANN), which are widely used in medical diagnosis systems,
+  were created to model the definitive diagnosis results using the composed UTI dataset.
+  Accuracy, specificity and sensitivity statistical measurements were used to determine
+  the performance of created models. Results DT, SVM, RF and ANN models have 93.22%,
+  96.61%, 96.61%, 98.30% accuracy, 95.55%, 97.77%, 95.55%, 97.77% sensitivity and
+  85.71%, 92.85%, 100%, 100% specificy results, respectively. Conclusions ANN has
+  the highest accuracy result of 98.3% for UTI diagnosis within the proposed models.
+  Although several symptoms, laboratory findings, and ultrasound results are needed
+  for clinical UTI diagnosis, this ANN model only needs pollacuria, suprapubic pain
+  symptoms and erythrocyte to get the same diagnosis with such accuracy. This proposed
+  model is a successful medical decision support system for UTI with complex symptoms.
+  Usage of this artificial intelligence method has its advantages of lower diagnosis
+  cost, lower diagnosis time and there is no need for invasive methods.
+featured: true
+publication: "*Computer Methods and Programs in Biomedicine*"
+tags:
+- Artificial intelligence methods
+- Medical decision support systems
+- Urinary tract infection
+- Artificial neural networks
+- Decision tree
+- Support vector machine
+- Random forest
+url_pdf: http://www.sciencedirect.com/science/article/pii/S0169260718302803
+doi: https://doi.org/10.1016/j.cmpb.2018.10.007
+
+---
+
