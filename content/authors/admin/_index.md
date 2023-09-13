@@ -16,7 +16,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link:https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ
+    link: https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ilkerozkan
