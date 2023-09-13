@@ -29,7 +29,8 @@ abstract: >+
 draft: false
 featured: true
 tags:
-  - Artificial Intelligence; Medical Decision Support System
+  - Artificial Intelligence
+  - Medical Decision Support System
 categories:
   - SCI
 image:
@@ -37,5 +38,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2010-03-29T20:45:00.000Z
+url_pdf: https://www.sciencedirect.com/science/article/pii/S095741741000237X
 ---
 <https://www.sciencedirect.com/science/article/pii/S095741741000237X>
