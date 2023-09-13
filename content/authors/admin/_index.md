@@ -1,56 +1,50 @@
 ---
 title: Ilker Ali OZKAN
-role: Professor of Artificial Intelligence
+role: Assoc.Prof.Dr.
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Artificial Intelligence and its Applications
+- FPGA
+- Intelligent Control Applications
+- Hardware Definition Languages
+- Biomedical Systems
+- Data Mining and Applications
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link:https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ilkerozkan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://tr.linkedin.com/in/ilker-ali-%C3%B6zkan-419779150
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Selcuk University
+    url: https://www.selcuk.edu.tr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD, FPGA based adaptive controller design and implementation for electromagnetic filters
+    institution: Selcuk University, Electrical&Electronics engineering
+    year: "2013"
+  - course: MS, Predicting of cutting forces and tool tip temperature in turning using fuzzy logic and artifitical neural network techniques
+    institution: Selcuk University,Department of Electronics and Computer Education
+    year: "2006"
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Ozkan
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Ilker Ali
+email: "ilkerozkan@selcuk.edu.tr"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.
 {style="text-align: justify;"}
