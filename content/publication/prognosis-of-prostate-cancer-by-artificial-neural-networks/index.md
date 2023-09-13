@@ -3,10 +3,9 @@ title: Prognosis of prostate cancer by artificial neural networks
 publication_types:
   - "2"
 authors:
-  - SARITAS
-  - Ismail OZKAN
-  - Ilker Ali SERT
-  - Unal
+  - Ismail SARITAS
+  - Ilker Ali OZKAN
+  - Unal SERT
 doi: https://doi.org/10.1016/j.eswa.2010.03.056
 publication: Expert Systems with Applications
 abstract: >+
@@ -29,10 +28,14 @@ abstract: >+
 
 draft: false
 featured: true
-tags: []
+tags:
+  - Artificial Intelligence; Medical Decision Support System
+categories:
+  - SCI
 image:
   filename: 1-s2.0-s095741741000237x-gr1.jpg
   focal_point: Smart
   preview_only: false
 date: 2010-03-29T20:45:00.000Z
 ---
+<https://www.sciencedirect.com/science/article/pii/S095741741000237X>
