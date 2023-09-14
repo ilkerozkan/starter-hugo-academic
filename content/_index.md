@@ -173,8 +173,8 @@ sections:
       phone: +90 332 223 33 92
       appointment_url: 'https://calendly.com'
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697' 
+        latitude: '38.028508'
+        longitude: '32.509168' 
       address:
         street: Alaaddin Keykubad Campus, Faculty of Technology
         city: Konya
