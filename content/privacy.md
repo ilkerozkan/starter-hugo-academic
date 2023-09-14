@@ -25,4 +25,4 @@ Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. The updated version will be posted on our website with the revised date. We encourage you to review this Privacy Policy periodically for any changes.
 
 Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at \[contact information].
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us.
