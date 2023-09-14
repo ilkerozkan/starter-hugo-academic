@@ -9,11 +9,11 @@ header:
   caption: ""
   image: ""
 ---
-| Kaynak Adı                                | URL                                                                                          |
-|:------------------------------------------|----------------------------|
-| How to Choose a Feature Selection Method  | [https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)        |
-| Sherpa Romeo                              | [https://v2.sherpa.ac.uk/romeo/](https://v2.sherpa.ac.uk/romeo/)                                                        |
-| Web Of Science                            | [https://app.webofknowledge.com/author/record/1392011?lang=en_US](https://app.webofknowledge.com/author/record/1392011?lang=en_US)                  |
+| Title                                                                 | URL                        |
+|:----------------------------------------------------------------------|----------------------------|
+| How to Choose a Feature Selection Method                              | [https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)        |
+| Sherpa Romeo                                                          | [https://v2.sherpa.ac.uk/romeo/](https://v2.sherpa.ac.uk/romeo/)                                                        |
+| Web Of Science                                                        | [https://app.webofknowledge.com/author/record/1392011?lang=en_US](https://app.webofknowledge.com/author/record/1392011?lang=en_US)                  |
 | Ulusal Tez Merkezi                        | [https://tez.yok.gov.tr/UlusalTezMerkezi/](https://tez.yok.gov.tr/UlusalTezMerkezi/)                                      |
 | ithenticate                               | [https://app.ithenticate.com/en_us/login](https://app.ithenticate.com/en_us/login)                                             |
 | Scopus Title Suggestion                   | [https://suggestor.step.scopus.com/suggestTitle/step1.cfm](https://suggestor.step.scopus.com/suggestTitle/step1.cfm)                              |
