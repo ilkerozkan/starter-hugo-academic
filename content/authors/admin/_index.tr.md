@@ -1,15 +1,14 @@
 ---
-title: Ilker Ali OZKAN
-role: Assoc.Prof.Dr.
+title: İlker Ali ÖZKAN
+role: Doç.Dr.
 avatar_filename: avatar.jpg
-bio: My research interests include artificial intelligence, intelligent control
-  and biomedical sytems matter.
+bio: Araştırma alanlarım arasında yapay zeka, akıllı kontrol ve biyomedikal sistemler yer almaktadır.
 interests:
-  - Artificial Intelligence and its Applications
-  - Biomedical Systems
-  - Data Mining and Applications
-  - Intelligent Control Applications
-  - Hardware Definition Languages(VHDL)
+  - Yapay Zeka ve Uygulamaları
+  - Biyomedikal Sistemler
+  - Veri Madenciliği ve Uygulamaları
+  - Akıllı Kontrol Uygulamaları
+  - Donanım Tanımlama Dilleri(VHDL)
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,17 +26,15 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Selcuk University
+  - name: Selçuk Üniversitesi
     url: https://www.selcuk.edu.tr/
 education:
   courses:
-    - course: PhD, FPGA based adaptive controller design and implementation for
-        electromagnetic filters
-      institution: Selcuk University, Electrical&Electronics engineering
+    - course: Doktora, Elektromanyetik filtreler için FPGA tabanlı adaptif kontrolör tasarımı ve gerçekleştirilmesi
+      institution: Selçuk Üniversitesi, Elektrik Elektronik Mühendisliği
       year: "2013"
-    - course: MS, Predicting of cutting forces and tool tip temperature in turning
-        using fuzzy logic and artifitical neural network techniques
-      institution: Selcuk University,Department of Electronics and Computer Education
+    - course: Yüksek Lisans, Tornalamada kesme kuvvetlerinin ve takım ucu sıcaklığının bulanık mantık ve yapay sinir ağı teknikleriyle tahmin edilmesi
+      institution: Selçuk Üniversitesi, Elek. ve Bilgisayar Sist. Eğitimi
       year: "2006"
 superuser: true
 status:
@@ -47,7 +44,7 @@ highlight_name: true
 first_name: Ilker Ali
 email: ilkerozkan@selcuk.edu.tr
 ---
-Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.<br>
+Doç.Dr. İlker Ali ÖZKAN 1978 Konya doğumludur. Selçuk Üniversitesinde; 2003 yılında Lisans, 2006 yılında Yüksek Lisans ve 2013 yılında Doktora eğitimlerini tamamladı. 2005-2013 yılları arasında Selçuk Üniversitesi Teknik Eğitim Fakültesi Elektronik ve Bilgisayar Sistemleri Öğretmenliği bölümü ve Teknoloji Fakültesi Bilgisayar Mühendisliği bölümünde Araştırma Görevlisi olarak görev yaptı. Halen, Selçuk Üniversitesi Teknoloji Fakültesi Bilgisayar Yazılımı Anabilim dalında Doçent Doktor olarak görev yapmaktadır. <br>
 -  [ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040) 
 -  [ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)
 -  [Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS) 
