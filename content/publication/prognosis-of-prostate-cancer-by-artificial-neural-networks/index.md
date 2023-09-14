@@ -38,6 +38,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2010-03-29T20:45:00.000Z
-url_pdf: https://www.sciencedirect.com/science/article/pii/S095741741000237X
+url_pdf: https://www.researchgate.net/profile/Ilker-Ali-Ozkan/publication/221990194_Prognosis_of_prostate_cancer_by_artificial_neural_networks/links/608f43cda6fdccaebd02d846/Prognosis-of-prostate-cancer-by-artificial-neural-networks.pdf
 ---
 <https://www.sciencedirect.com/science/article/pii/S095741741000237X>
