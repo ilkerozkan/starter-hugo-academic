@@ -6,11 +6,10 @@ bio: My research interests include artificial intelligence, intelligent control
   and biomedical sytems matter.
 interests:
   - Artificial Intelligence and its Applications
-  - FPGA
-  - Intelligent Control Applications
-  - Hardware Definition Languages
   - Biomedical Systems
   - Data Mining and Applications
+  - Intelligent Control Applications
+  - Hardware Definition Languages(VHDL)
 social:
   - icon: envelope
     icon_pack: fas
