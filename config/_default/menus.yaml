@@ -18,6 +18,14 @@ main:
     parent:  publications
     url: '/publication/#2'
     weight: 30
+  - name: Thesis
+    parent:  publications
+    url: '/publication/#7'
+    weight: 30
+  - name: Patents
+    parent:  publications
+    url: '/publication/#8'
+    weight: 30
   - name: Courses
     url: '/course'
     weight: 35
