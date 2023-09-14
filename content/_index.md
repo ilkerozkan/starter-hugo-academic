@@ -71,7 +71,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: collection
     id: thesis
     content:
@@ -83,7 +83,7 @@ sections:
         publication_type: "7"
     design:
       columns: '1'
-      view: compect
+      view: compact
   - block: collection
     content:
       title: Recent Publications
