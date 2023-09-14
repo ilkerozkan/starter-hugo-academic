@@ -1,4 +1,3 @@
----
 # Leave the homepage title empty to use the site title
 title: Assoc.Prof.Dr.
 date: 2022-10-24
