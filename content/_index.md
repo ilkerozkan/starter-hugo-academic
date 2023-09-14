@@ -80,9 +80,9 @@ sections:
         folders:
           - publication
         featured_only: false
-     design:
+    design:
       columns: '1'
-      view: compact
+      view: compect
   - block: collection
     content:
       title: Recent Publications
