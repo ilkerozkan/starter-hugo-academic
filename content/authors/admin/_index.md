@@ -49,26 +49,9 @@ first_name: Ilker Ali
 email: ilkerozkan@selcuk.edu.tr
 ---
 Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
-.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:0px;color:#002b36;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:0px;color:#fdf6e3;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-c3ow">cv xvccxv</td>
-    <td class="tg-c3ow">xcvxcv</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">xcvxcv</td>
-    <td class="tg-c3ow">xcvcxv</td>
-  </tr>
-</tbody>
-</table>
+|----------|:-------------:|------:|
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 > * [ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040)
 > * [ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)
 > * [Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS)
