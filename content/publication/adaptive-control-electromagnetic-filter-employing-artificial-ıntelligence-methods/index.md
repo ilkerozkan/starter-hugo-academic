@@ -21,6 +21,8 @@ abstract: >-
   Buluş; endüstriyel sıvıların, düşük konsantrasyonlu ve mikron - mikron altı boyutlu parçacıklardan temizlenmesi için kullanılan filtrenin yapay zekâ yöntemleriyle çalışan adaptif kontrol biriminden oluşan kit ile ilgilidir. Amacımız mikron ve mikron altı boyutlu parçacıkların tutulmasını sağlayacak bir filtrenin tasarımı, pratik olarak gerçekleştirilmesi ve farklı çalışma şartları için bu filtrenin kontrolünün bilgisayardan bağımsız bir şekilde modern kontrol yöntemleri kullanarak gerçek zamanda yapılmasıdır.
 draft: false
 featured: false
+categories:
+  - Patents
 image:
   filename: featured
   focal_point: Smart
