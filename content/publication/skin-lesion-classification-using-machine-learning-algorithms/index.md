@@ -40,3 +40,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+> I. A. OZKAN and M. KOKLU, “Skin Lesion Classification using Machine Learning Algorithms”, *Int J Intell Syst Appl Eng*, vol. 5, no. 4, pp. 285–289, Dec. 2017.
