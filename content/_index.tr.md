@@ -164,8 +164,8 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
-      subtitle: Assoc.Prof.Dr. Ilker Ali OZKAN
+      title: İletişim
+      subtitle: Doç.Dr. Ilker Ali OZKAN
       text: |-
  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
@@ -176,16 +176,16 @@ sections:
         latitude: '38.028508'
         longitude: '32.509168' 
       address:
-        street: Alaaddin Keykubad Campus, Faculty of Technology
+        street: Alaaddin Keykubad Kampüsü, Teknoloji Fakültesi
         city: Konya
         region: TR
         postcode: '42030'
         country: Türkiye
         country_code: TR
-      directions: Enter Building A and take the stairs to Office 407 on Floor 4
+      directions: A Binasına girin ve merdivenlerden 4. Kattaki Ofis 407'ye çıkın
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Pazartesi 10:00 to 13:00'
+        - 'Çarşamba 09:00 to 10:00'
       contact_links:
  #       - icon: twitter
  #         icon_pack: fab
