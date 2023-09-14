@@ -49,17 +49,11 @@ first_name: Ilker Ali
 email: ilkerozkan@selcuk.edu.tr
 ---
 Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.<br>
-{::indent level="2"}
-[ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040) 
-{:/indent}
-{::indent level="12"}
-[ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)
-{:/indent}
-<br>
-{::indent level="2"}
-[Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS) 
-{:/indent}
-{::indent level="12"}
-[Google Scholar](https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ)
-{:/indent}   
+{% stripnewlines %}
+  [ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040) 
+  [ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)
+{% newline %}
+  [Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS) 
+  [Google Scholar](https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ)
+{% endstripnewlines %}
 {style="text-align: justify;"}
