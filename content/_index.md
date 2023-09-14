@@ -80,10 +80,10 @@ sections:
         folders:
           - publication
         featured_only: false
-        publication_type: "Thesis"
+        publication_type: 7
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: compact
   - block: collection
     content:
       title: Recent Publications
