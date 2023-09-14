@@ -50,8 +50,8 @@ email: ilkerozkan@selcuk.edu.tr
 ---
 Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.
 
-|----------|:-------------:|------:|
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+\| :--- | :---  |
+| col 2 is |    centered   |
+| col 3 is | right-aligned |
 
->   {style="text-align: justify;"}
+  {style="text-align: justify;"}
