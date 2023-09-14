@@ -1,7 +1,7 @@
 ---
 title: Skin Lesion Classification using Machine Learning Algorithms
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Ilker Ali OZKAN
   - Murat KOKLU
@@ -25,18 +25,18 @@ abstract: >+
   which can help dermatologists in diagnosing of the skin lesions.
 
 draft: false
+url_pdf: https://www.researchgate.net/publication/321937436_Skin_Lesion_Classification_using_Machine_Learning_Algorithms
 featured: true
 tags:
   - Medical Decision Support System
 categories:
   - Article
+date: 2017-12-28T06:53:44.472Z
+links:
+  - name: Download
+    url: /pdf/ilkerozkan_IJISAE.pdf
 image:
   filename: untitled.png
   focal_point: Smart
   preview_only: false
-date: 2017-12-28T06:53:44.472Z
-url_pdf: https://www.researchgate.net/publication/321937436_Skin_Lesion_Classification_using_Machine_Learning_Algorithms
-links: 
-- name: Download
-  url: /pdf/ilkerozkan_IJISAE.pdf
 ---
