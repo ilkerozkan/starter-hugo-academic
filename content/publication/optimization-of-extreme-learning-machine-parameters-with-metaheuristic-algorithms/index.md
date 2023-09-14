@@ -42,7 +42,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2023-09-14T19:11:09.589Z
+date: 2020-06-24T19:11:09.589Z
 ---
 Metasezgisel algoritmalar ile aşırı öğrenme makinesi parametrelerinin optimizasyonu / Optimization of extreme learning machine parameters with metaheuristic algorithms\
 Yazar:MUSA DOĞAN\
