@@ -3,7 +3,7 @@ title: Design and application of permanent magnet motor controller with FPGA
 publication_types:
   - "7"
 authors:
-  - Fatih TARAKÇI
+  - ABDULKADİR SADAY
 abstract: >
   The permanent magnet synchronous motors (PMSM) are the sinusoidal motors with
   the supply current and the induced voltage waveform. In general, AC and DC can
