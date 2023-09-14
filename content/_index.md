@@ -85,6 +85,18 @@ sections:
       columns: '1'
       view: compact
   - block: collection
+    id: Patents
+    content:
+      title: Patents
+      filters:
+        folders:
+          - publication
+        featured_only: false
+        publication_type: "8"
+    design:
+      columns: '1'
+      view: compact
+  - block: collection
     content:
       title: Recent Publications
       text: |-
