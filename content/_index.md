@@ -78,7 +78,7 @@ sections:
       title: Thesis Supervised
       filters:
         folders:
-          - thesis
+          - publication
         featured_only: true
     design:
       columns: '2'
