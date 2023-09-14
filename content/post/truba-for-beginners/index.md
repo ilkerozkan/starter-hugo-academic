@@ -8,5 +8,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-[PDF EuroCC-Seminer_Yeni-Baslayanlar-icin-TRUBA (/static/EuroCC-Seminer_Yeni-Baslayanlar-icin-TRUBA.pdf)
+[PDF EuroCC-Seminer_Yeni-Baslayanlar-icin-TRUBA] (/static/EuroCC-Seminer_Yeni-Baslayanlar-icin-TRUBA.pdf)
 {{< youtube AxIvy53Uv5U >}}
