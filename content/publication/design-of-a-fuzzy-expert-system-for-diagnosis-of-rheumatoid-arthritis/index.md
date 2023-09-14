@@ -33,8 +33,8 @@ abstract: >
   and the system has been approved by the specialist doctor. Keywords: Disease
   Diagnosis, Expert System, Fuzzy Expert System, Rheumatoid Arthritis
 draft: false
-featured: false
 url_pdf: https://tez.yok.gov.tr/UlusalTezMerkezi/
+featured: false
 tags:
   - MSc Thesis Supervised
 categories:
@@ -51,3 +51,5 @@ Danışman: YRD. DOÇ. DR. İLKER ALİ ÖZKAN\
 Yer Bilgisi: Selçuk Üniversitesi / Fen Bilimleri Enstitüsü / Bilişim Teknolojileri Ana Bilim Dalı\
 Konu:Bilgisayar Mühendisliği Bilimleri-Bilgisayar ve Kontrol = Computer Engineering and Computer Science and Control ; Romatoloji = Rheumatology\
 Dizin:Bulanık = Fuzzy
+
+Fatih TARAKÇI, Romatoid artrit hastalığının teşhisi için bir bulanık uzman sistem tasarımı, 2017, Tamamlandı ( 467383 - [https://tez2.yok.gov.tr](https://tez2.yok.gov.tr/) )
