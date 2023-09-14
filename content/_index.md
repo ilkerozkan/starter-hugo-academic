@@ -49,7 +49,8 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: true
+        featured_only: true
+        exclude_featured: false
         exclude_future: false
         exclude_past: false
         publication_type: ""
