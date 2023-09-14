@@ -33,7 +33,8 @@ abstract: >
   and the system has been approved by the specialist doctor. Keywords: Disease
   Diagnosis, Expert System, Fuzzy Expert System, Rheumatoid Arthritis
 draft: false
-featured: true
+featured: false
+url_pdf: https://tez.yok.gov.tr/UlusalTezMerkezi/
 tags:
   - MSc Thesis Supervised
 categories:
