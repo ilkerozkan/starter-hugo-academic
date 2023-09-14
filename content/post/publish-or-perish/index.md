@@ -2,7 +2,7 @@
 title: Publish or Perish
 date: 2023-09-14T07:49:55.053Z
 draft: false
-featured: false
+featured: true
 categories:
   - Software
 image:
