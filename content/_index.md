@@ -61,6 +61,15 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  ## Thesis Supervised
+
+- MSc Thesis Supervised
+    
+    Musa DOĞAN, Optimization of Extreme Learning Machine Parameters with Metaheuristic Algorithms, 2020, ( 637695- [https://tez2.yok.gov.tr](https://tez2.yok.gov.tr/) )
+    
+    Abdulkadir SADAY, Design and application of permanent magnet motor controller with FPGA, 2019, Tamamlandı ( 607057- [https://tez2.yok.gov.tr](https://tez2.yok.gov.tr/) )
+    
+    Fatih TARAKÇI, RDesign of a fuzzy expert system for diagnosis of rheumatoid arthritis, 2017, Tamamlandı ( 467383 - [https://tez2.yok.gov.tr](https://tez2.yok.gov.tr/) )
   - block: collection
     id: featured
     content:
