@@ -1,5 +1,5 @@
 ---
-title: Terms
+title: Links
 date: 2018-06-28T00:00:00+01:00
 draft: false
 share: false
@@ -9,36 +9,22 @@ header:
   caption: ""
   image: ""
 ---
-Terms and Conditions
-
-These Terms and Conditions ("Terms") govern your use of our website. By accessing or using our website, you agree to be bound by these Terms. Please read them carefully before using our website.
-
-Intellectual Property
-All content on our website, including text, graphics, logos, images, videos, and software, is the property of ilkerliozkan.com.tr and is protected by intellectual property laws. You may not reproduce, distribute, modify, or create derivative works from any content on our website without our prior written consent.
-
-Use of Our Website
-You may use our website for lawful purposes and in accordance with these Terms. You agree not to:
-
-Violate any applicable laws or regulations
-Infringe upon the rights of others
-Engage in any fraudulent activity
-Transmit any harmful or malicious code
-Interfere with the operation or security of our website
-Use our website to transmit spam or unsolicited messages
-Third-Party Links
-Our website may contain links to third-party websites that are not owned or controlled by us. We are not responsible for the content or practices of these third-party websites. Your use of third-party websites is subject to their own terms and conditions and privacy policies.
-
-Disclaimer of Warranties
-Our website is provided on an "as is" and "as available" basis, without any warranties of any kind. We do not guarantee the accuracy, completeness, or reliability of any content on our website. Your use of our website is at your own risk.
-
-Limitation of Liability
-To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, consequential, or special damages arising out of or in connection with your use of our website. We shall not be responsible for any loss or damage caused by viruses or other harmful components.
-
-Indemnification
-You agree to indemnify and hold us harmless from any claims, losses, liabilities, damages, costs, or expenses, including attorney's fees, arising out of or in connection with your use of our website or your violation of these Terms.
-
-Changes to These Terms
-We reserve the right to modify or update these Terms at any time without prior notice. The updated version will be posted on our website with the revised date. By continuing to use our website after the changes, you agree to be bound by the revised Terms.
-
-Contact Us
-If you have any questions, concerns, or requests regarding these Terms, please contact us.
+| Başlık                                                          | Link                                                                                                                       |
+|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| How to Choose a Feature Selection Method For Machine Learning    | [Link](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)                            |
+| Sherpa Romeo                                                    | [Link](https://v2.sherpa.ac.uk/romeo/)                                                                                     |
+| Web Of Science                                                  | [Link](https://app.webofknowledge.com/author/record/1392011?lang=en_US)                                                    |
+| Ulusal Tez Merkezi                                              | [Link](https://tez.yok.gov.tr/UlusalTezMerkezi/)                                                                           |
+| ithenticate                                                     | [Link](https://app.ithenticate.com/en_us/login)                                                                            |
+| Scopus Title Suggesiton                                         | [Link](https://suggestor.step.scopus.com/suggestTitle/step1.cfm)                                                           |
+| Master Journal List                                             | [Link](https://mjl.clarivate.com/home?PC=D)                                                                                |
+| Online Latex Editör                                             | [Link](https://www.latex4technics.com)                                                                                     |
+| arxiv                                                           | [Link](https://arxiv.org)                                                                                                  |
+| TR Dizin                                                        | [Link](https://trdizin.gov.tr)                                                                                             |
+| Özel Sayılar                                                     | [Link](https://www.guide2research.com/special-issues/)                                                                     |
+| Özel Sayılar 2                                                   | [Link](https://research.com/special-issues/computer-science)                                                              |
+| Kariyer Planlama Ders Kitabı                                     | [Link](https://karmer.gop.edu.tr/depo/menuler/birim_11898/duyurular_198/89e07439-672f-484e-a688-bca9b0a237f2/html_icerik/files/KP%20Ders%20Kitab%C4%B1.pdf) |
+| Springer OSC Conference List                                     | [Link](https://ocs.springer.com/misc/viewconferences)                                                                      |
+| Cheat Sheets for Using MATLAB with Python                        | [Link](https://www.mathworks.com/campaigns/offers/matlab-python-cheat-sheets.html?s_v1=41666&elqem=3649079_EM_ROW_DIR_22-01_MOE-EDU-ENG&elqTrackId=49c50b7807fb459a867f495771f9bf57&elq=a20d1c97ad3d4ce59db7430629ba0be8&elqaid=41666&elqat=1&elqCampaignId=15331) |
+| How to Choose an Activation Function for Deep Learning          | [Link](https://buff.ly/38RyP50)                                                                                            |
+| Yaz OKulları                                                    | [Link](https://yazokulu.bilimakademisi.org/yapayogrenme/2022/)                                                             |
