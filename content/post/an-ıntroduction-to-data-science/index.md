@@ -2,7 +2,7 @@
 title: An Introduction to Data Science
 date: 2023-09-14T18:06:38.849Z
 draft: false
-featured: false
+featured: true
 tags:
   - Weblink
 image:
