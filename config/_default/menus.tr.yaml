@@ -7,7 +7,7 @@ main:
   - name: Anasayfa
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Yazılar
     url: '/post'
     weight: 20
   - name: Yayınlar
