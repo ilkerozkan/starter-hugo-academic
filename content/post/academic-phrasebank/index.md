@@ -2,7 +2,7 @@
 title: Academic Phrasebank
 date: 2023-09-14T07:44:00.696Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
