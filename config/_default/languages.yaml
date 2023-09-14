@@ -11,7 +11,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 tr:
   languageCode: tr
-  contentDir: content/tr
+  contentDir: content
   title: Doç.Dr. İlker Ali ÖZKAN
 #  params:
 #    description: Site description in Chinese...
