@@ -172,8 +172,8 @@ sections:
       email: ilkerozkan@selcuk.edu.tr
       phone: +90 332 223 33 92
       appointment_url: 'https://calendly.com'
-    	content:
-      	coordinates:
+      content:
+        coordinates:
           latitude: '37.4275'
           longitude: '-122.1697' 
       address:
