@@ -10,7 +10,7 @@ header:
   image: ""
 ---
 | Title                              | URL                                                                                                      |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------|
+|:---------------------------------------------------------------------------------------|:--------------------------------------------------------------|
 | How to Choose a Feature Selection Method  | https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/                |
 | Sherpa Romeo                              | https://v2.sherpa.ac.uk/romeo/                                                                          |
 | Web Of Science                            | https://app.webofknowledge.com/author/record/1392011?lang=en_US                                        |
