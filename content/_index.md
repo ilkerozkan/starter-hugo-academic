@@ -80,7 +80,8 @@ sections:
         folders:
           - publication
         featured_only: false
-        publication_type: 7
+        category: "Thesis"
+        publication_type: "Thesis"
     design:
       columns: '1'
       view: compact
