@@ -206,10 +206,10 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
-    content:
+    design:
+      columns: '2'
+          content:
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697' 
-    design:
-      columns: '2'
 ---
