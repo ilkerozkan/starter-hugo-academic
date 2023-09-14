@@ -1,10 +1,11 @@
+---
 # Leave the homepage title empty to use the site title
 title: Assoc.Prof.Dr.
 date: 2022-10-24
 type: landing
 
 sections:
-- block: about.biography
+  - block: about.biography
     id: about
     content:
       title: Biography
@@ -33,21 +34,8 @@ sections:
 #          description: Taught electronic engineering and researched semiconductor physics.
 #    design:
 #      columns: '2'
-- block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-   - block: collection
+ 
+  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -74,20 +62,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-    - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: portfolio
     id: projects
     content:
@@ -134,7 +108,20 @@ sections:
     design:
       columns: '2'
       view: card
-
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: talks
     content:
