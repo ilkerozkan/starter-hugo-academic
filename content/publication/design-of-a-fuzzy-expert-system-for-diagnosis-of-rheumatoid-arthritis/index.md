@@ -34,6 +34,8 @@ abstract: >
   Diagnosis, Expert System, Fuzzy Expert System, Rheumatoid Arthritis
 draft: false
 featured: true
+tags:
+  - MSc Thesis Supervised
 categories:
   - Thesis
 image:
