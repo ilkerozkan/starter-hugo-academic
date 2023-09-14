@@ -206,8 +206,8 @@ sections:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
-    	design:
-      	columns: '2'
+        design:
+      	  columns: '2'
 	content:
   	coordinates:
       latitude: '37.4275'
