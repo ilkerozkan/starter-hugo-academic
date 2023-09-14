@@ -208,8 +208,9 @@ sections:
           captcha: true
         design:
           columns: '2'
----
 	content:
   	coordinates:
       latitude: '37.4275'
       longitude: '-122.1697' 
+---
+
