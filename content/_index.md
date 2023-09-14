@@ -79,7 +79,8 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
+        publication_type: "Thesis"
     design:
       columns: '2'
       view: card
