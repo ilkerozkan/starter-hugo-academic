@@ -50,8 +50,6 @@ email: ilkerozkan@selcuk.edu.tr
 ---
 Assoc. Prof. Dr. Ilker Ali OZKAN was born in 1978 in Konya. He completed his undergraduate studies and graduated in 2003, obtained his master’s degree in 2006 and obtained his Ph.D. in 2013 at Selcuk University. He worked as a research assistant in Selcuk University, Faculty of Technical Education, Department of Computer and Electronic Systems Education and in Computer Engineering Department of Faculty of Technology between 2005-2013. Currently, he is working as an Assoc.Prof.Dr. at Selcuk University, Computer Software Department of Faculty of Technology.
 | - | - |
-| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
-[ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040)
-[ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)
-[Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS)
- {style="text-align: justify;"}
+| [ORCID:0000-0002-5715-1040](https://orcid.org/0000-0002-5715-1040) | [ResearcherID: A-6208-2016](http://www.researcherid.com/rid/A-6208-2016)|
+| [Scopus Author ID: 52563088900](http://www.scopus.com/inward/authorDetails.url?authorID=52563088900&partnerID=MN8TOARS)| [Google Scholar](https://scholar.google.com.tr/citations?user=4uZaOhYAAAAJ)|
+{style="text-align: justify;"}
