@@ -27,7 +27,7 @@ abstract: >+
 draft: false
 featured: true
 tags:
-  - Medical Decision Support Systems
+  - Medical Decision Support System
 categories:
   - Article
 image:
@@ -35,4 +35,6 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2017-12-28T06:53:44.472Z
+url_pdf: https://www.researchgate.net/publication/321937436_Skin_Lesion_Classification_using_Machine_Learning_Algorithms
+url_web: https://ijisae.org/index.php/IJISAE/article/view/714
 ---
