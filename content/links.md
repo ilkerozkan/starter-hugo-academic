@@ -9,7 +9,7 @@ header:
   caption: ""
   image: ""
 ---
-| Kaynak Adı                                | URL                                                                                                      |
+| Title                              | URL                                                                                                      |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | How to Choose a Feature Selection Method  | https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/                |
 | Sherpa Romeo                              | https://v2.sherpa.ac.uk/romeo/                                                                          |
@@ -29,8 +29,4 @@ header:
 | How to Choose an Activation Function for Deep Learning | https://buff.ly/38RyP50                      |
 | Yaz OKulları                              | https://yazokulu.bilimakademisi.org/yapayogrenme/2022/                                                  |
 
-| Springer OSC Conference List              | [Link](https://ocs.springer.com/misc/viewconferences)                                      |
-| Cheat Sheets for Using MATLAB with Python | [Link](https://www.mathworks.com/campaigns/offers/matlab-python-cheat-sheets.html?s_v1=41666&elqem=3649079_EM_ROW_DIR_22-01_MOE-EDU-ENG&elqTrackId=49c50b7807fb459a867f495771f9bf57&elq=a20d1c97ad3d4ce59db7430629ba0be8&elqaid=41666&elqat=1&elqCampaignId=15331) |
-| How to Choose an Activation Function for Deep Learning | [Link](https://buff.ly/38RyP50) |
-| Yaz OKulları                              | [Link](https://yazokulu.bilimakademisi.org/yapayogrenme/2022/)                          |
 
