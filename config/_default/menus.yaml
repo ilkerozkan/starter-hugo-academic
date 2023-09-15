@@ -21,6 +21,7 @@ main:
   - name: Conference Paper
     parent:  publications
     url: '/publication/#1'
+    weight: 30
   - name: Journal Article
     parent:  publications
     url: '/publication/#2'
