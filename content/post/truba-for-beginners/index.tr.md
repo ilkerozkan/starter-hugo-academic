@@ -1,5 +1,5 @@
 ---
-title: TRUBA for Beginners
+title: Yeni Başlayanlar için TRUBA
 date: 2021-06-16T19:34:51.713Z
 draft: false
 featured: false
