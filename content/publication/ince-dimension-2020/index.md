@@ -25,6 +25,7 @@ authors:
   - Fatma Betül Kınacı Ince
   - Sakir Tasdemir
   - İlker Ali Ozkan
+doi: http://sutod.selcuk.edu.tr/sutod/article/view/514
 publication: "*Selçuk-Teknik Dergisi*"
 featured: false
 tags:
