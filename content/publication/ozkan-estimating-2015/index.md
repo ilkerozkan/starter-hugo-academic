@@ -19,7 +19,7 @@ abstract: "In this study, the effect of methanol mixtures in different
   karşılaştırılması ile elde edilmiştir. Elde edilen ANFIS modelinin farklı
   metanol karışımları ile içten yanmalı bir motorun çıkış emisyonu ve performans
   değerleri hakkında sağlam bir tahmin yapabildiği görülmektedir."
-url_pdf: https://dergipark.org.tr/en/pub/ijaet/issue/7971/104617
+url_pdf: 10.18245-ijaet.95440-89411.pdf
 title: Estimating Engine Performance and Emission Values Using ANFIS / ANFIS
   Kullanılarak Motor Performans ve Emisyon Değerleri Tahmini
 publication_types:
