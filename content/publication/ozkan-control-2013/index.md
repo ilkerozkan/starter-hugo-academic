@@ -4,7 +4,7 @@ title: The Control of Electromagnetic Filter by Using FPGA Based PI Type Fuzzy
 publication_types:
   - "1"
 authors:
-  - **İlker Ali Özkan**
+  - *İlker Ali Özkan*
   - İsmail Sarıtaş
   - Saadetdin Herdem
 publication: 2nd International Conference on Information Technology and Computer
