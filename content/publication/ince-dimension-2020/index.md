@@ -17,6 +17,7 @@ abstract: "The development of image processing technology appears in agriculture
   tree method.Keywords: Image processing, olive classification, KNN
   classification algorithm, decision tree."
 url_pdf: http://sutod.selcuk.edu.tr/sutod/article/view/514
+url_web: http://sutod.selcuk.edu.tr/sutod/article/view/514
 title: DIMENSION AND COLOR CLASSIFICATION OF OLIVE FRUIT WITH IMAGE PROCESSING
   TECHNIQUES
 publication_types:
@@ -25,7 +26,6 @@ authors:
   - Fatma Betül Kınacı Ince
   - Sakir Tasdemir
   - İlker Ali Ozkan
-doi: http://sutod.selcuk.edu.tr/sutod/article/view/514
 publication: "*Selçuk-Teknik Dergisi*"
 featured: false
 tags:
