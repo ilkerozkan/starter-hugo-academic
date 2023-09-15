@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Data Science
+title: Veri Bilimine Giriş
 date: 2023-09-14T18:06:38.849Z
 draft: false
 featured: true
