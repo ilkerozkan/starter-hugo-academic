@@ -1,0 +1,12 @@
+---
+title: "Detection of Impurities in Wheat and Classification of Durum Wheat Vitreousness in a Dynamic System,"
+date: 2016-11-01
+publishDate: 2023-09-15T20:34:04.285980Z
+authors: ["Esra Kaya", "İsmail Sarıtaş", "İlker Ali Özkan"]
+publication_types: ["1"]
+abstract: "One of the main food supplies for the survival of humankind is wheat so, a favourable quality processing of wheat is essential. After harvesting, it goes through many procedures from its separation from chaff to its packaging. Nowadays, many of these procedures are conducted with automatic systems due to the development in computer sciences which leads to decreasing cost of labour and time and increasing food quality. One of the main concerns of quality food production is to provide a customer with the product in its purest form which means the product must be separated from all foreign matters. The vitreousness of durum wheat is also a measure of quality. If the wheat is vitreous, it means that the wheat is of good quality. If not, then it is of poor quality. In this study, type-1252 durum wheat seeds have been separated from junk using 10 morphological properties of wheat seeds and the vitreousness of wheat is determined through 45 colour features through the uncompressed video image taken with the camera Prosilica GT2000c. With the purpose of obtaining high quality vitreous durum wheat storage with no junk, this article has adopted various image processing techniques from image pre-processing to feature extraction and realized the classification process with Artificial Neural Network(ANN). The image processing has been realized in a computer environment and the results show that the image processing is successful and the determination of vitreous durum wheat seeds and the detection of wheat seeds from junk was accurate."
+featured: false
+publication: "*4. International Conference on Advanced Technology & Sciences (ICAT'Rome)*"
+url_pdf: "https://www.researchgate.net/publication/320182758_Detection_of_Impurities_in_Wheat_and_Classification_of_Durum_Wheat_Vitreousness_in_a_Dynamic_System/link/59d3430a4585150177f92cba/download"
+---
+Esra KAYA, Ismail SARITAS, **Ilker Ali OZKAN**, (2016), Detection of Impurities in Wheat and Classification of Durum Wheat Vitreousness in a Dynamic System, 4. International Conference on Advanced Technology & Sciences (ICAT'Rome), pp.114-120, November 23-25, 2016, ISBN:978-605-67535-3-4, Rome, ITALY.
