@@ -8,6 +8,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Academic Phrasebank is a general resource for academic writers. It aims to provide you with examples of some of the phraseological ‘nuts and bolts’ of writing organised according to the main sections of a research paper or dissertation
+Akademik İfade Bankası, akademik yazarlar için genel bir kaynaktır. Size bir araştırma makalesi veya tezin ana bölümlerine göre düzenlenmiş bazı deyimsel 'temel ve cıvata' yazma örnekleri sağlamayı amaçlamaktadır
 
 [http://www.phrasebank.manchester.ac.uk](http://www.phrasebank.manchester.ac.uk "http\://www.phrasebank.manchester.ac.uk")
