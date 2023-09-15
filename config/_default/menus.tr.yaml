@@ -21,6 +21,7 @@ main:
   - name: Bildiriler
     parent:  publications
     url: '/publication/#1'
+    weight: 30
   - name: Dergi Makalesi
     parent:  publications
     url: '/publication/#2'
