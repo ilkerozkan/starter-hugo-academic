@@ -3,7 +3,9 @@ title: An Artificial Neural Network Model for Magnetic Filter Performance
 publication_types:
   - "1"
 authors:
-  - İsmail Sarıtaş; İlker Ali Özkan; Saadetdin Herdem
+  - İsmail Sarıtaş
+  - İlker Ali Özkan
+  - Saadetdin Herdem
 doi: http://dx.doi.org/10.13140/RG.2.1.2060.8083
 publication: 1 st Taibah University International Conference on Computing and
   Information Technology (ICCIT2012)
