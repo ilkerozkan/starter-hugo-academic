@@ -1,7 +1,8 @@
 ---
-title: Yapay zeka yöntemleriyle çalışan adaptif kontrollü elektromanyetik filtre
-publication_types: Adaptive Control Electromagnetic Filter Employing Artificial Intelligence Methods
-subtitle:  
+title: Adaptive Control Electromagnetic Filter Employing Artificial Intelligence
+  Methods
+subtitle: Yapay zeka yöntemleriyle çalışan adaptif kontrollü elektromanyetik filtre
+publication_types:
   - "8"
 authors:
   - İSMAİL SARITAS
