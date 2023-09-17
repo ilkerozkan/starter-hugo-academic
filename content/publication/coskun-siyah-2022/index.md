@@ -1,13 +1,13 @@
 ---
 title: "Siyah Alaca Sığırlarda Farklı Büyüme ve Gelişme Dönemlerindeki Vücut Ölçülerinden Canlı Ağırlık Tahmininde Kullanılan Veri Madenciliği Algoritmalarının Karşılaştırılması"
 date: 2022-09-01
-publishDate: 2023-09-15T18:24:22.006102Z
-authors: ["Gizem Coşkun", "Özcan Şahi̇n", "İlker Ali Ozkan", "İbrahim Ayteki̇n"]
+publishDate: 2023-09-17T19:45:01.823421Z
+authors: ["Gizem Coşkun", "Özcan Şahi̇n", "İlker Ali Özkan", "İbrahim Ayteki̇n"]
 publication_types: ["2"]
 abstract: "Bu çalışmanın amacı 0-12 aylık yaşta farklı büyüme ve gelişme dönemindeki sığırların bazı vücut ölçümlerinden canlı ağırlık tahmininde kullanılan veri madenciliği algoritmalarının karşılaştırılmasıdır. Çalışmada 24 baş dişi ve 18 baş erkek olmak üzere toplamda 42 baş sığıra ait kimi vücut ölçülerinden göğüs çevresi (GÇ), göğüs derinliği (GD), vücut uzunluğu (VU), cidago yüksekliği (CY), sağrı yüksekliği (SY) ile cinsiyet ve yaş özelliği bağımsız değişken, canlı ağırlık ise bağımlı değişken olarak ele alınmıştır. Vücut ölçülerinden canlı ağırlığının tahmin edilmesinde ise veri madenciliği algoritmalarından Çoklu Doğrusal Regresyon (MLR), Rastgele Orman (RF), Karar Ağacı (DT) ve En Yakın Komşu (kNN) algoritmaları çapraz doğrulama (cross-validation) 5 alınarak kullanılmıştır. Vücut ölçüleri ile canlı ağırlık (CA) arasında pozitif bir korelasyon olduğu tespit edilmiştir (Ptextless0.01). CA’nın en yüksek korelasyonu GÇ (r=0.972) ve GD (r=0.972) olarak bulunurken, en düşük korelasyon ise SY (r=0.887)’de bulunmuştur. MLR, RF, DT ve kNN algoritmalarında belirleme katsayıları (R2) sırasıyla % 93.90, % 91.20, % 85.70 ve % 85.60 olarak tespit edilmiştir. RF ve MLR’ye ait R2 değerleri; kNN ve DT modellerine nazaran daha yüksek bulunurken, MSE ve MAE tahmin performans ölçütleri ise bu modellerden daha düşük olarak tespit edilmiştir. Veri madenciliği algoritmalarından MLR modelin R2 değeri 0.939 ile en yüksek iken, en düşük değer ise kNN (0.856) modelinde tespit edilmiştir. Sonuç olarak; sığırların vücut ölçüleri kullanılarak canlı ağırlığı tahmin etmedeki doğruluğun yüksek olduğu ve sadece GÇ ve GD’nin ele alınması ilede doğru ve güvenilir sonuçlar elde edileceği söylenebilir. Sonuç olarak; sığırların vücut ölçüleri kullanılarak canlı ağırlığı tahmin etmedeki doğruluğun yüksek olduğu ve sadece belli bir vücut ölçüsünün ele alınması ile de doğru ve güvenilir sonuçlar elde edileceği söylenebilir."
 featured: false
 publication: "*Ziraat Mühendisliği*"
-url_pdf: "https://dergipark.org.tr/tr/pub/zm/issue/72445/1092837"
+url_pdf: "https://dergipark.org.tr/en/pub/zm/issue/72445/1092837"
 doi: "10.33724/zm.1092837"
 ---
-
+Gizem COŞKUN, Özcan ŞAHİ̇N, **İlker Ali ÖZKAN**, İbrahim AYTEKİ̇N (2022). Comparison of data mining algorithms used in predictive of live weight from body measurements in Holstein cattle at different growth and development periods. Ziraat Mühendisliği. https://doi.org/10.33724/zm.1092837.
