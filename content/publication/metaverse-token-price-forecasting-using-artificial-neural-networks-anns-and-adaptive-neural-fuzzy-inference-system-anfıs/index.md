@@ -1,15 +1,11 @@
 ---
-title: Metaverse token price forecasting using artificial neural networks (ANNs)
-  and Adaptive neural fuzzy inference system (ANFIS)
-publication_types:
-  - "2"
-authors:
-  - İBRAHİM ÖZKAL; İLKER ALİ ÖZKAN; FATİH BAŞÇİFTÇİ
-doi: https://doi.org/10.1007/s00521-023-09228-y
-publication: Neural Computing and Applications
-publication_short: Neural Comput & Applic
+title: "Metaverse token price forecasting using artificial neural networks (ANNs) and Adaptive neural fuzzy inference system (ANFIS)"
+date: 2023-11-27
+publishDate: 2023-11-23T20:50:39.123554Z
+authors: ["İbrahim Özkal", "İlker Ali Özkan", "Fatih Başçiftçi"]
+publication_types: ["2"]
 abstract: >+
-  This study is about the metaverse environment which has recently heard a lot
+  This study is about the metaverse environment which has recently heard a lot 
   in life. Although many individuals and institutions are interested in
   metaverse, it is an imaginary future space, and the conceptual framework is
   not fully drawn. The metaverse is a mix of augmented, virtual, and mixed
@@ -47,11 +43,14 @@ abstract: >+
   metaverse world. Additionally, there are significant obstacles that need to be
   addressed in terms of fulfilling hardware requirements for its implementation.
 
-draft: false
-featured: false
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
-date: 2023-11-27T06:38:47.418Z
+featured: true
+publication: "*Neural Computing and Applications*"
+publication_short: "Neural Comput & Applic"
+tags: ["Metaverse", "Artificial neural networks", "ANFIS", "Virtual Reality", "Augmented reality"]
+url_pdf: "https://link.springer.com/article/10.1007/s00521-023-09228-y"
+doi: "10.1007/s00521-023-09228-y"
 ---
+İbrahim ÖZKAL, **Ilker Ali OZKAN**, Fatih BAŞÇİFTÇİ (2023). Metaverse token price forecasting using artificial neural networks (ANNs) and Adaptive neural fuzzy inference system (ANFIS), Neural Computing and Applications, ISSN 1433-3058, https://doi.org/10.1007/s00521-023-09228-y
+
+
+
