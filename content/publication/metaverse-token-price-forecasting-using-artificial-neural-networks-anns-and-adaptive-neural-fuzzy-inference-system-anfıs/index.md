@@ -1,6 +1,6 @@
 ---
 title: "Metaverse token price forecasting using artificial neural networks (ANNs) and Adaptive neural fuzzy inference system (ANFIS)"
-date: 2023-11-27
+date: 2024-03-01
 publishDate: 2023-11-23T20:50:39.123554Z
 authors: ["İbrahim Özkal", "İlker Ali Özkan", "Fatih Başçiftçi"]
 publication_types: ["2"]
