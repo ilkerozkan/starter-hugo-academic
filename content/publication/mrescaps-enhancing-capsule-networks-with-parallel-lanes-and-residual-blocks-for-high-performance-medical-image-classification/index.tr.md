@@ -28,7 +28,7 @@ abstract: >+
   capsule-focused approach.
 
 
-url_pdf: https://link.springer.com/article/10.1007/s00521-023-09228-y
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/ima.23108
 title: "MResCaps: Enhancing capsule networks with parallel lanes and residual
   blocks for high-performance medical image classification"
 publication_types:
@@ -36,7 +36,7 @@ publication_types:
 authors:
   - Sümeyra Büşra Şengül
   - İLKER ALİ ÖZKAN
-doi: https://doi.org/10.1002/ima.23108
+doi: 10.1002/ima.23108
 publication: International Journal of Imaging Systems and Technology
 publication_short: Int J Imaging Syst Technol.
 featured: true
@@ -49,6 +49,6 @@ tags:
 image:
   filename: mrescaps.png
 date: 2024-05-31T11:27:53.514Z
-publishDate: 2023-11-23T20:50:39.123Z
+publishDate: 2024-05-31T11:27:53.514Z
 ---
 Sümeyra Büşra ŞENGÜL, **Ilker Ali OZKAN** (2024). MResCaps: Enhancing capsule networks with parallel lanes and residual blocks for high-performance medical image classification, Int J Imaging Syst Technol.,  2024; 34(4):e23108. https://doi.org/10.1002/ima.23108
