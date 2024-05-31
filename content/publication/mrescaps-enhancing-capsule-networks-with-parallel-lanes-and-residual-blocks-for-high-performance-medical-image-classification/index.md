@@ -34,19 +34,20 @@ title: "MResCaps: Enhancing capsule networks with parallel lanes and residual
 publication_types:
   - "2"
 authors:
-  - İbrahim Özkal
+  - Sümeyra Büşra Şengül
   - İlker Ali Özkan
-  - Fatih Başçiftçi
 doi: https://doi.org/10.1002/ima.23108
 publication: International Journal of Imaging Systems and Technology
 publication_short: Int J Imaging Syst Technol.
 featured: true
 tags:
-  - Metaverse
-  - Artificial neural networks
-  - ANFIS
-  - Virtual Reality
-  - Augmented reality
+  - capsule network
+  - classification
+  - complex image
+  - medical image
+  - residual block
+image:
+  filename: mrescaps.png
 date: 2024-05-31T11:27:53.514Z
 publishDate: 2023-11-23T20:50:39.123Z
 ---
