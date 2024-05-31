@@ -36,7 +36,7 @@ publication_types:
 authors:
   - Sümeyra Büşra Şengül
   - İLKER ALİ ÖZKAN
-doi: doi.org/10.1002/ima.23108
+doi: 10.1002/ima.23108
 publication: International Journal of Imaging Systems and Technology
 publication_short: Int J Imaging Syst Technol.
 featured: true
