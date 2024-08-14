@@ -44,7 +44,7 @@ abstract: >
   kaynak yolunu takip edebildiği sonucuna ulaşılmıştır.
 draft: false
 url_pdf: https://tez.yok.gov.tr/UlusalTezMerkezi/
-featured: false
+featured: true
 tags:
   - PhD Thesis Supervised
 categories:
