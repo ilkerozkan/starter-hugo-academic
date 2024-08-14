@@ -10,7 +10,7 @@ abstract: >
   başlanılmıştır. Bunlardan en yaygın olanı, otomotiv, ev gereçleri, savunma
   sanayi, medikal ve havacılık gibi uygulama alanları olan kaynak robotlarıdır.
   Kaynak robotları, kaynak uygulamalarını otomatikleştirmekle beraber, üreticiye
-  hız, zaman ve güvenlik kazandırmaktadır. Ağır görev döngülerini, değişmez ve
+  hız, zaman ve güvenlik kazandırmaktadır.  Ağır görev döngülerini, değişmez ve
   kesintisiz yapıda sürdürebilmektedirler. Ancak kaynak işleminin
   otomatikleştirilmesi insan kontrolünde olmamasından dolayı, oluşabilecek
   hatalara karşı denetimsiz bir süreci ortaya çıkarmaktadır. Mevcut kaynak
