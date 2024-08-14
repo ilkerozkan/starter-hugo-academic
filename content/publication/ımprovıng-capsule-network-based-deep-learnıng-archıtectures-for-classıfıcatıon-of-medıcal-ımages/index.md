@@ -4,7 +4,7 @@ title: IMPROVING CAPSULE NETWORK BASED DEEP LEARNING ARCHITECTURES FOR
 publication_types:
   - "7"
 authors:
-  - SümeyraBüşraŞengül
+  - Sümeyra Büşra Şengül
 abstract: >
   Subtle details in medical images can be crucial in disease diagnosis.
   Therefore, these images need to be analyzed accurately and precisely. Capsule
