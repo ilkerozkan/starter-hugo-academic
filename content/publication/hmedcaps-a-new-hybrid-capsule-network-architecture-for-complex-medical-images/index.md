@@ -43,13 +43,13 @@ publication: "Neural Computing and Applications"
 publication_short: Neural Comput & Applic
 featured: true
 tags:
-  - capsule network
-  - classification
-  - complex image
-  - medical image
-  - residual block
+  - CapsNet
+  - Complex image
+  - FractalNet
+  - Medical image analysis
+  - Squash function
 image:
-  filename: ""
+  filename: "hmedcaps.png"
 date: 2024-08-14T16:23:27.845Z
 publishDate: 2024-05-31T11:27:53.514Z
 ---
