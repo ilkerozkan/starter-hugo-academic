@@ -1,47 +1,45 @@
 ---
-title: FPGA ile Kaynak Robotunun Adaptif Kontrolü
+title: AAdaptive Control of Welding Robot with FPGA
 publication_types:
   - "7"
 authors:
   - Abdulkadir Saday
 abstract: >
-  Robot teknolojilerindeki ve sistemlerindeki gelişime bağlı olarak endüstride,
-  insanlar için tehlikeli ve yorucu olan işler için robotlar tercih edilmeye
-  başlanılmıştır. Bunlardan en yaygın olanı, otomotiv, ev gereçleri, savunma
-  sanayi, medikal ve havacılık gibi uygulama alanları olan kaynak robotlarıdır.
-  Kaynak robotları, kaynak uygulamalarını otomatikleştirmekle beraber, üreticiye
-  hız, zaman ve güvenlik kazandırmaktadır. Ağır görev döngülerini, değişmez ve
-  kesintisiz yapıda sürdürebilmektedirler. Ancak kaynak işleminin
-  otomatikleştirilmesi insan kontrolünde olmamasından dolayı, oluşabilecek
-  hatalara karşı denetimsiz bir süreci ortaya çıkarmaktadır. Mevcut kaynak
-  robotları, bir operatör tarafından programlanmakta ve kaynak işlemi operatör
-  tarafından belirlenen parametrelere bağlı olarak yapılmaktadır. Ayrıca kaynak
-  yolunun programlanması esnasındaki ölçümlerde hassasiyetin sürdürülememesi,
-  hataların oluşabilmesine neden olmaktadır. Kaynak esnasında, malzeme
-  çarpılması, ark üflemesi gibi bilinen kaynak sorunlarına karşı kaynak robotu
-  sistemleri tepkisizdir. Parametrelerin sisteme önceden yüklenmesi ve gerçek
-  zamanlı bir denetim yapısının olmaması, kaynak esnasında oluşabilecek hatalara
-  karşı kaynak robotlarını denetimsiz kılmaktadır. Bu durum iş, zaman,
-  üretkenlik ve maddi kayıplara neden olmaktadır. Literatürde kaynak
-  robotlarıyla yapılan kaynak işlemleri sonrasında farklı kalite ölçüm ve
-  değerlendirme sistemleri önerilmiştir. Ancak bu sistemlerde, kaynak
-  kalitesinin ölçümü sağlanmış, hataya karşı bir denetim sistemi
-  geliştirilmemiştir. Bununla birlikte, kaynak yolunun otomatik belirlenmesine
-  ait gerçek zamanlı bir kontrol mekanizmasına ihtiyaç bulunmaktadır. Bu tez
-  çalışmasında, kaynak robotları tarafından yapılan kaynak işlerinde, hataların
-  oluşmadan önce önlenmesini sağlamak, programlama sürecini otomatikleştirmek ve
-  adaptif bir kontrol yapısı sağlamak amacıyla gerçek zamanlı bir sistem
-  önerilmektedir. Önerilen sistemin görüntü işleme ve anlık denetim için gerekli
-  olan hesaplama yükünden dolayı paralel işlem yapabilme ve çoklu görevlere
-  anlık cevap verebilme gibi avantajları nedeniyle Alan Programlanabilir Kapı
-  Dizileri (FPGA) üzerinde uygulanmıştır. Bir kamera ve lazer modül kullanılarak
-  alınan veriler, görüntü işleme teknikleri ile işlenerek kaynak yolunun
-  belirlenmesi sağlanmıştır. Elde edilen veriler adaptif bulanık mantık
-  denetleyiciye giriş bilgileri olarak aktarılmıştır. Geliştirilen denetleyici
-  yapısı ile kaynak robotları için bir adaptif hız kontrol ve kaynak yolu takip
-  sistemi elde edilmiştir. Yapılan deneysel çalışmalarla, geliştirilen sistemin
-  bir prototip üzerinde kaynak yolu geometrisini başarıyla belirleyebildiği ve
-  kaynak yolunu takip edebildiği sonucuna ulaşılmıştır.
+  Depending on the development of robotic technologies and systems, robots have
+  begun to be preferred in the industry for jobs that are dangerous and tiring
+  for humans. The most common are welding robots, which have application areas
+  such as automotive, household appliances, defense industry, medical, and
+  aerospace. Welding robots automate welding applications and provide speed,
+  time, and safety to the manufacturer. They can sustain heavy-duty cycles in an
+  unchanging and uninterrupted manner. However, since automating the welding
+  process is not under human control, it creates an uncontrolled process against
+  possible errors. Current welding robots are programmed by an operator and the
+  welding process is performed depending on the parameters determined by the
+  operator. In addition, failure to maintain precision in measurements during
+  the weld path programming causes errors. During welding, robot systems are
+  unresponsive to known problems such as material distortion and arc blowing.
+  The fact that the parameters are preloaded into the system and the absence of
+  a real-time control structure makes the welding robots uncontrolled against
+  errors that may occur during welding. This situation causes work, time,
+  productivity, and financial loss. Different quality measurement and evaluation
+  systems have been proposed in the literature after welding processes performed
+  with welding robots. However, welding quality measurement was provided in
+  these systems, and an error-proof control system was not developed. However,
+  there is a need for a real-time control mechanism for automatic determination
+  of the weld path. In this thesis study, a real-time system is proposed to
+  prevent errors before they occur, to automate the programming process, and to
+  provide an adaptive control structure in welding works performed by welding
+  robots. The proposed system has been implemented on Field Programmable Gate
+  Arrays (FPGA) due to its advantages, such as parallel processing and instant
+  response to multiple tasks due to the computational load required for image
+  processing and instant control. The data received using a camera and laser
+  module was processed using image processing techniques to determine the weld
+  path. The obtained data was transferred to the adaptive fuzzy logic controller
+  as input information. The developed controller structure has obtained an
+  adaptive speed control and welding path tracking system for welding robots.
+  The experimental studies concluded that the developed system could
+  successfully determine the weld path geometry and follow the weld path on a
+  prototype.
 draft: false
 url_pdf: https://tez.yok.gov.tr/UlusalTezMerkezi/
 featured: false
