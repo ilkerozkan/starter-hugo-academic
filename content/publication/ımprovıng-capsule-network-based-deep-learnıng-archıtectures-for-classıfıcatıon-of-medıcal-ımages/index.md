@@ -1,6 +1,6 @@
 ---
-title: IMPROVING CAPSULE NETWORK BASED DEEP LEARNING ARCHITECTURES FOR
-  CLASSIFICATION OF MEDICAL IMAGES
+title: Improving Capsule Network Based Deep Learning Architectures for
+  Classification of Medical Images
 publication_types:
   - "7"
 authors:
