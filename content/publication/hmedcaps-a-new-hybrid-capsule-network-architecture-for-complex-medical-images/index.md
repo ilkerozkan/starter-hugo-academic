@@ -31,16 +31,15 @@ abstract: >+
 
 
 
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/ima.23108
-title: "HMedCaps: a new hybrid capsule network architecture for complex medical
-  images"
+url_pdf: https://link.springer.com/article/10.1007/s00521-024-10147-9
+title: "HMedCaps: a new hybrid capsule network architecture for complex medical images"
 publication_types:
   - "2"
 authors:
   - Sümeyra Büşra Şengül
   - İLKER ALİ ÖZKAN
 doi: 10.1007/s00521-024-10147-9
-publication: " Neural Computing and Applications"
+publication: "Neural Computing and Applications"
 publication_short: Neural Comput & Applic
 featured: true
 tags:
