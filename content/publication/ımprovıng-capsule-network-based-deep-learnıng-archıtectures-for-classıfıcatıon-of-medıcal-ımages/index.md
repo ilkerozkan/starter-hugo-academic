@@ -44,7 +44,7 @@ draft: false
 url_pdf: https://tez.yok.gov.tr/UlusalTezMerkezi/
 featured: false
 tags:
-  - MSc Thesis Supervised
+  - PhD Thesis Supervised
 categories:
   - Thesis
 image:
