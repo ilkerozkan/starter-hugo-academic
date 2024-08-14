@@ -61,4 +61,4 @@ Supervisor: DOÇ. DR. İLKER ALİ ÖZKAN
 Where: Selçuk Üniversitesi / Fen Bilimleri Enstitüsü / Mekatronik Mühendisliği Ana Bilim Dalı / Mekatronik Mühendisliği Bilim Dalı
 Subject:Mekatronik Mühendisliği = Mechatronics Engineering
 Keyword:Adaptif denetim = Adaptive control ; Bulanık denetim = Fuzzy control ; FPGA = FPGA ; Görüntü işleme = Image processing ; Kaynak hataları = Welding defects ; Kaynak parametreleri = Welding parameters ; Kaynak teknolojisi = Welding technology ; Robot denetim = Robot control ; Robot kolu = Robot arm ; Robot sistemleri = Robot systems\
-Doctorate / Doktora
+Doctorate / Doktora 
