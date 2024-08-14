@@ -3,7 +3,7 @@ title: Adaptive Control of Welding Robot with FPGA
 publication_types:
   - "7"
 authors:
-  - Sümeyra Büşra Şengül
+  - Abdulkadir Saday
 abstract: >
   Depending on the development of robotic technologies and systems, robots have
   begun to be preferred in the industry for jobs that are dangerous and tiring
