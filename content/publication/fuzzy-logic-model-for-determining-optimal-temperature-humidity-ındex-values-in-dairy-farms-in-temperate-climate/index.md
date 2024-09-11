@@ -18,24 +18,25 @@ abstract: >+
   understand the impact of thresholds determined by fuzzy logic on dairy cow
   production and welfare.
 
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/ima.23108
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/10888705.2024.2400137
 title: Fuzzy Logic Model for Determining Optimal Temperature-Humidity Index
   Values in Dairy Farms in Temperate Climate
 publication_types:
   - "2"
 authors:
-  - Sümeyra Büşra Şengül
+  - Mustafa KİBAR
+  - İbrahim AYTEKİN
   - İLKER ALİ ÖZKAN
 doi: 10.1080/10888705.2024.2400137
 publication: Journal of Applied Animal Welfare Science
 publication_short: ""
 featured: true
 tags:
-  - capsule network
-  - classification
-  - complex image
-  - medical image
-  - residual block
+  - Dairy cattle
+  - temperature
+  - humidity index
+  - fuzzy logic
+  - welfare
 image:
   filename: ""
 date: 2024-09-11T11:58:12.413Z
