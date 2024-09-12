@@ -25,7 +25,7 @@ abstract: >+
 featured: false
 tags:
   - ""
-date: 2024-09-12T12:08:01.928Z
-publishDate: 2024-04-28T08:10:53.584Z
+date: 2024-06-12T12:08:01.928Z
+publishDate: 2024-06-28T08:10:53.584Z
 ---
 Musa DOGAN, **İlker Ali ÖZKAN** (2024), Automated Hair Segmentation in Dermoscopy Images with U-Net Based Approaches,  2024 13th Mediterranean Conference on Embedded Computing (MECO), pp. 1-4, June 11-14, Budva, Montenegro. doi: https://doi.org/10.1109/MECO62516.2024.10577890
