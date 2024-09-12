@@ -4,7 +4,7 @@ title: Performance Evaluation of U-Net Based Methods for Lesion Segmentation
 publication_types:
   - "1"
 authors:
-  - Sumeyra Busra Sengul
+  - Musa Dogan
   - Ilker Ali Ozkan
 doi: 10.58190/icisna.2024.89
 publication: "*International Conference on Intelligent Systems and New
