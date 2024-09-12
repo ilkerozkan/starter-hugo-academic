@@ -4,7 +4,7 @@ title: "A Novel Hybrid Approach: Capsule Network Enhanced with Residual Block
 publication_types:
   - "1"
 authors:
-  - Abdulkadir Saday
+  - Sumeyra Busra Sengul
   - Ilker Ali Ozkan
 doi: 10.58190/icisna.2024.84
 publication: "*International Conference on Intelligent Systems and New
@@ -37,6 +37,6 @@ featured: false
 tags:
   - ""
 date: 2024-09-12T11:42:33.046Z
-publishDate: 2023-09-16T08:10:53.584Z
+publishDate: 2024-04-28T08:10:53.584Z
 ---
 Sumeyra Busra SENGUL, **İlker Ali ÖZKAN** (2024), A Novel Hybrid Approach: Capsule Network Enhanced with Residual Block and CBAM Module for Medical Image Classification,  International Conference on Intelligent Systems and New Applications (ICISNA'24), pp. 22-26, April 26-28, 2024, Liverpool, United Kingdom. doi: https://doi.org/10.58190/icisna.2024.84.
