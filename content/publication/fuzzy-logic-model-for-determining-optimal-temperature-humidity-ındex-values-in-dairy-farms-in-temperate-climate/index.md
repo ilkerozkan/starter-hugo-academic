@@ -29,6 +29,7 @@ authors:
   - İLKER ALİ ÖZKAN
 doi: 10.1080/10888705.2024.2400137
 publication: Journal of Applied Animal Welfare Science
+url_pdf: "https://www.tandfonline.com/eprint/4KVUMXVTJ5RCI5VAPMMS/full?target=10.1080/10888705.2024.2400137"
 publication_short: ""
 featured: true
 tags:
